@@ -2,7 +2,7 @@
 <body>
   
 
-<h1>My First Website</h1>
+<h1>My First Websittte</h1>
 <h2> personal infomation </h2>
 
 <p>Aidan Tyssen <br>
