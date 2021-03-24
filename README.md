@@ -19,9 +19,7 @@ Email-s3898351@student.rmit.edu.au
 I don’t have much experience in IT. In high school I chose basic programming as an elective and over ten weeks I learnt how to use scratch. I learnt basic skills and by the end of the program I had completed a few small projects such as making a simple website and a game of pong. 
 I chose to come to RMIT because out of all the open days I attended, RMIT seemed most welcoming and seemed like they prepared their students exceptionally for future jobs. RMIT’s system of finding real work experience for students was very alluring to me. This type of programming would build a lot of confidence in finding a job after completing my studies and would really prepare students for real jobs.
 During my studies I expect to learn many skills such as programming, building websites and app development to help meet the needs of users. I also expect to develop teamwork skills through working with classmates which will prepare me for future work.
-I’m interested in IT as there is such large growth in the industry. There are so many new job opportunities opening up with great pay, making IT a very secure profession. 
-
-   </p>
+I’m interested in IT as there is such large growth in the industry. There are so many new job opportunities opening up with great pay, making IT a very secure profession. </p>
 
 
 
