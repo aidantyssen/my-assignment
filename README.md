@@ -29,7 +29,8 @@ In article ‘How to Use the Science of Personality When Building an Effective T
 
 My results indicate that on a team, I’d be hard working and conscious about doing my part in the set time. Due to my high agreeableness I tend to avoid conflict in teams and go with the flow which can be good but I should also work to state my opinions and input, and make an effort to explain my thoughts to others. 
 </p>
-
+<h2>Project Idea  </h2>
+<p>  </p>
 
 
 
