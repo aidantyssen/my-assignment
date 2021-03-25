@@ -2,7 +2,7 @@
 <head>
 <title> Background color formatting </title>
 </head>
-<body style='background-color:'D9F8FF'>
+<body style='background-color:'blue'>
 
 <body>
   
