@@ -1,11 +1,8 @@
 <html>
 <body>
-<title> Background color formatting </title>
-</head>
-<body style='background-color:'blue'>
 
 
-  
+  <title> My First Website </title>
 <h1><font size='10' face='Times New Roman' color='black'>  My First Website</font> </h1>
 <h3> <font size='10' face='Times New Roman' color='black'>Personal Information</font> </h3>
 
