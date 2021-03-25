@@ -9,7 +9,9 @@
 Student number-3898351 <br>
 Email-s3898351@student.rmit.edu.au
 </p>
-<p> My mum and dad both migrated to Australia when they were young, my mum from Argentina and my dad from Singapore, so I have many nationalities such as Chinese, German, Lithuanian and Dutch.  I completed my year 12 studies in 2020 and am now a first year at RMIT studying bachelor of Information Technology. In my past time I love swimming, looking after my plants, gaming and exercising. </p>
+<p><font size='10' face='arial' color='red'>
+ this is a formated paragraph
+</font> </p> My mum and dad both migrated to Australia when they were young, my mum from Argentina and my dad from Singapore, so I have many nationalities such as Chinese, German, Lithuanian and Dutch.  I completed my year 12 studies in 2020 and am now a first year at RMIT studying bachelor of Information Technology. In my past time I love swimming, looking after my plants, gaming and exercising. </p>
 <h2>Interest in IT </h2>
 <p>My interest IT started last year, my sister got a boyfriends who studied IT and through it he’s able to make great income at an early age and also has great flexibility in his job, allowing him to live a balanced life and spend time doing things he enjoys.  This was inspiring for me as I’d love that kind of lifestyle, and played a large role in choosing to study Information Technology. <br><br>
 I don’t have much experience in IT. In high school I chose basic programming as an elective and over ten weeks I learnt how to use scratch. I learnt basic skills and by the end of the program I had completed a few small projects such as making a simple website and a game of pong. <br><br>
