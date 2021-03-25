@@ -2,8 +2,7 @@
 <body>
   
 
-<h1><font size='10' face='Times New Roman' color='black'>
-</font> My First Websssite</h1>
+<h1><font size='10' face='Times New Roman' color='black'>  Myi First Website </font> </h1>
 <h2> personal infomation </h2>
 
 <p>Aidan Tyssen <br>
