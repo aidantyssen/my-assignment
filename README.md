@@ -1,7 +1,7 @@
 <html>
 <body>
    
-<body style='background-color:A6D1F3'>
+<body style='background-color:#A6D1F3'>
 
 <h1><font size='10' face='Times New Roman' color='black'>  My First Website</font> </h1>
 <h3> <font size='10' face='Times New Roman' color='black'>Personal Information</font> </h3>
