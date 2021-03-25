@@ -5,7 +5,7 @@
 
 <h1><font size='10' face='Times New Roman' color='black'>  My First Website</font> </h1>
 <h3> <font size='10' face='Times New Roman' color='black'>Personal Information</font> </h3>
-<img src=”(face.png)”>
+<img src=”face.png”>
 <p>Aidan Tyssen <br>
 Student number-3898351 <br>
 Email-s3898351@student.rmit.edu.au
