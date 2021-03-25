@@ -1,12 +1,12 @@
 <html>
-<head>
+<body>
 <title> Background color formatting </title>
 </head>
 <body style='background-color:'blue'>
 
-<body>
+
   
-<h1><font size='10' face='Times New Roman' color='black'>  My First Website</font> </h1>
+<h1><font size='10' face='Times New Roman' color='black'>  Myyy First Website</font> </h1>
 <h2> <font size='10' face='Times New Roman' color='black'>Personal Information</font> </h2>
 
 <p>Aidan Tyssen <br>
