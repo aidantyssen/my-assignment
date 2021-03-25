@@ -1,7 +1,10 @@
 <html>
+<head>
+<title> Background color formatting </title>
+</head>
+<body bgcolor='D9F8FF'>
 <body>
   
-
 <h1><font size='10' face='Times New Roman' color='black'>  My First Website </font> </h1>
 <h2> <font size='10' face='Times New Roman' color='black'>Personal Information</font> </h2>
 
