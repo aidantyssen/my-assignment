@@ -3,7 +3,7 @@
   
 
 <h1><font size='10' face='Times New Roman' color='black'>  My First Website </font> </h1>
-<h2> personal infomation </h2>
+<h2> <font size='10' face='Times New Roman' color='black'>Personal Information</font> </h2>
 
 <p>Aidan Tyssen <br>
 Student number-3898351 <br>
